@@ -1,6 +1,3 @@
-<?php
-include 'db.php';
-?>
 
 
 <!doctype html>
